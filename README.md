@@ -1,4 +1,5 @@
 # software-art
+HW1 - lines <br />
 algorithm: <br />
 <pre>
 if the toggle is turned on <br />
