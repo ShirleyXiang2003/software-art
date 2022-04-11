@@ -30,4 +30,5 @@ class ofApp : public ofBaseApp{
     ofxToggle sphere;
     ofxToggle box;
 		
+    ofImage Screenshot;
 };
