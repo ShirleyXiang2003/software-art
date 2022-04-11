@@ -96,7 +96,10 @@ void ofApp::draw(){
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-
+ if (key == ' '){
+        Screenshot.grabScreen(0, 0, ofGetWidth(), ofGetHeight());
+        Screenshot.save("screenshot.png");
+    }
 }
 
 //--------------------------------------------------------------
