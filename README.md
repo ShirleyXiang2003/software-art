@@ -1,6 +1,23 @@
 # software-art
 
 **Assignment1 - Still** <br />
+This work is inspired by the famous artist Piet Cornelies Mondrian’s work. Mondrian was a pioneer of geometric abstraction, taking geometric figures as the basic elements of painting. Below is the typical artwork by Mondrian. 
+ 
+ 
+He did not paint the objects that can be seen by eyes, but he has restricted his painting language to the most basic elements: straight lines, right angles, the three primary colors (red, yellow, and blue) and the three non-primary colors (white, gray, and black).
+
+However, one thing I spot is that he always restrained works within two-dimensional scope and shapes with sharp angles and surface. Based on this, I was trying to do a secondary innovation on Mondrian’s work that gets rid of this restrain. 
+
+Basically, my work composed mainly two parts – the first are the lines in the front or back and the second are the three-dimensional objects. As for the lines, people can change the width of these lines as what they wish by switching the sliders controlling the width. They are drawn in three dimensions but displaying the effect of two dimension. As for the three-dimensional objects, they are two types that users can interact with. One is box. There are six boxes on the screen. They six all have the same length of sides. And users can play with the boxes by changing their length, while the positions are set at one place. The other is sphere. Users can interact with spheres by changing their radiuses, pretty much the same as how boxes work. 
+
+To implement this, I first had two toggles that can control which type of objects users want. One toggle controlling boxes and the other controlling spheres. By default, the toggle controlling boxes is turned on and the toggle controlling spheres is turned off. When both toggles are turned on, only boxes will be shown. Lines are objects are randomly placed on the screen. Two parameters intSlider and floatSlider are set to change the size of objects. The range for both for them is from 3 to 200 and the default parameter is 100. Another parameter floatSlider2 is set as to change the thickness of lines. Its range is from -5 to 10 and the default value is 0.  
+ 
+ 
+
+ 
+
+I kept Mondrian’s use of three primary colors and black colors as one of the rudimentary rules of my work. That is to say, however the work is changing, the colors that compose this piece are yellow, red, blue, white, and black, which are immutable, providing a message of greeting to the inspiration of my work. Another rule is that the positions of lines will not change. The reason for this is that still lines represent a sense of motionlessness, which creates contrast to the geometric objects. As you adjust the parameter of these objects, you’ll see animation of these objects that change their size in a static background. This makes those objects more vivid. To be more specific, these objects are like small animals such as rabbits and dogs that are shut in the cage trying to escape from it. 
+![image](https://user-images.githubusercontent.com/102908435/162787400-3488eea9-0fb3-430d-baef-4e89d20e6b6b.png)
 
 
 **Sketch 1 - lines** <br />
