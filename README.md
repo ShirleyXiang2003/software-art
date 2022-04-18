@@ -1,5 +1,8 @@
 # software-art
 
+**Sketch2 - motion** <br /> <br />
+
+
 **Assignment1 - Still** <br /> <br />
 This work is inspired by the famous artist Piet Cornelies Mondrian’s work. Mondrian was a pioneer of geometric abstraction, taking geometric figures as the basic elements of painting. Below is the typical artwork by Mondrian. <br />
   ![image](https://user-images.githubusercontent.com/102908435/162787523-1b54ce85-6bfa-42bd-aef9-0cffda40aa63.png)
