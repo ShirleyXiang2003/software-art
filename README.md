@@ -7,7 +7,7 @@ The two circles are changing its radius in the same rate. The range of both circ
 
 <img width="947" alt="Screen Shot 2022-04-18 at 11 59 05 AM" src="https://user-images.githubusercontent.com/102908435/163776780-1810b1cd-4aa7-42fb-922d-ae2f49aed93f.png"><br />
 
-<img width="947" alt="Screen Shot 2022-04-18 at 11 59 05 AM" src="https://user-images.githubusercontent.com/102908435/163776873-33cd28f2-2e08-4add-93f5-c28d7c2f29f9.png"><br />
+<img width="748" alt="Screen Shot 2022-04-18 at 11 58 59 AM" src="https://user-images.githubusercontent.com/102908435/163777917-980e34e9-1e6d-4bb2-8575-bd1432c20281.png"><br />
 
 **Assignment1 - Still** <br /> <br />
 This work is inspired by the famous artist Piet Cornelies Mondrian’s work. Mondrian was a pioneer of geometric abstraction, taking geometric figures as the basic elements of painting. Below is the typical artwork by Mondrian. <br />
