@@ -1,7 +1,13 @@
 # software-art
 
 **Sketch2 - motion** <br /> <br />
+The interface is set with white background. The work is basically composed of two animating circles. One circle begins with radius 300, and it will become smaller and smaller until radiuses reach 60, it backs to 300. The other one beings with radius 60, and it will become larger and larger until its radius reaches 300, it backs to 60. 
 
+The two circles are changing its radius in the same rate. The range of both circles are from 60 to 300. The rule for the animation is that when one circle is growing bigger, the other is shinking. The color is constantly changing with different rate I gave to them. And As the color parameters of red, green, and blue color reaches 255 respectively, it will come back to 0.
+
+<img width="947" alt="Screen Shot 2022-04-18 at 11 59 05 AM" src="https://user-images.githubusercontent.com/102908435/163776780-1810b1cd-4aa7-42fb-922d-ae2f49aed93f.png">
+
+<img width="947" alt="Screen Shot 2022-04-18 at 11 59 05 AM" src="https://user-images.githubusercontent.com/102908435/163776873-33cd28f2-2e08-4add-93f5-c28d7c2f29f9.png">
 
 **Assignment1 - Still** <br /> <br />
 This work is inspired by the famous artist Piet Cornelies Mondrian’s work. Mondrian was a pioneer of geometric abstraction, taking geometric figures as the basic elements of painting. Below is the typical artwork by Mondrian. <br />
