@@ -1,6 +1,22 @@
 # software-art
 
 **Assignment 2 - motion** <br /> <br />
+Basically, my work is composed of a few falling sakura. It is inspired by the song thoughts through time and space. This song is from a famous Japanese animation called Inuyasha.  This animation tells a pathetic love story of a monster called Inuyasha and a human girl named Gewei. The song creates a sense of poignant sadness in my opinion. Thus, inspired by this, I was trying to visualize this sense of sadness. <br />
+
+I used five images and one song as extra data files. The five files include one image of petals, two images of flowers, one image of Sakura tree, and one image of background in which the two protagonists sit on the tree together. They are all in png extension. The song I loaded is thoughts through time and space.<br />
+
+As for petals, I randomly generate them on the screen by a for loop. And they move in a random motion. I intended to make them move much faster than all other images, for I want to create a sense that these petals are lighter than others. In addition, I adjust these petals with size 20x20 since I want to create a picture where these petals are on the back of all other falling flowers. When it comes to falling flowers, I loaded two kinds of images – one is a “half flower”, the other is an intact flower. For the “half flowers”, I created a few of them on the screen manually (namely, not using a for loop). They are falling in a different velocity with gravity 2 in contrast to the gravity of petals 9.81. As for the intact flower, they are also falling in a different velocity than the other two with a gravity 1.2. These flowers differ from petals in the fact that they rotate from time to time as the parameter offset changes. But they will not change in the same direction, as the degree of rotation is made different at the very beginning. <br />
+
+The falling flowers are self-repetitive. They will move more and more quickly just as what they would do in a real world. As they reach the end of the screen, the program will generate a new group of flowers with the same beginning positions and beginning velocities, as well as a constant acceleration. <br />
+
+When it comes to the background music, it will loop by itself when it ends. Users can adjust the volume of the music by pressing key w for increasing the volume (by 0.1) and key s for decreasing the volume (by 0.1). The volume will be displayed on the left corner of the screen in the form of message. <br />
+
+By default, there will not be background image showing. If users want the image to appear, they should press key b (stands for background) to make it visible. If users want the image to disappear, they can press c (stands for close) to close the background image.<br />
+
+In all, I love what I got for this assignment. It provides me a valuable opportunity to create a scene that I think can fit well with the song, which is what I wished to do when I was young. <br />
+
+<img width="1439" alt="Screen Shot 2022-04-24 at 7 57 52 PM" src="https://user-images.githubusercontent.com/102908435/164989133-85cec57d-a786-40c7-9a57-8685755bef0f.png">
+<img width="1438" alt="Screen Shot 2022-04-24 at 7 58 01 PM" src="https://user-images.githubusercontent.com/102908435/164989139-46fadc08-3668-4b57-b643-7a875b66ac95.png">
 
 
 **Sketch2 - motion** <br /> <br />
