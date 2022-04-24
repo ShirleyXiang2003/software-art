@@ -1,5 +1,8 @@
 # software-art
 
+**Assignment 2 - motion** <br /> <br />
+
+
 **Sketch2 - motion** <br /> <br />
 The interface is set with white background. The work is basically composed of two animating circles. One circle begins with radius 300, and it will become smaller and smaller until radiuses reach 60, it backs to 300. The other one beings with radius 60, and it will become larger and larger until its radius reaches 300, it backs to 60. <br />
 
